@@ -129,19 +129,3 @@ User authentication is implemented using JWT (JSON Web Tokens). Passwords are ha
 ## Data Handling
 
 The application segregates user-specific data to ensure personalized experiences. The product data is maintained on the back-end and is fetched from the front-end using API calls. Each user's order history and cart data are managed individually to provide a tailored shopping experience.
-
-## Preview Images
-### Home Page
-![image](https://github.com/aerraj/MediKart/assets/61013804/967f69c0-5a14-4fef-a560-13e8912bf0e3)
-### Cart View
-![image](https://github.com/user-attachments/assets/f788d345-6347-43e1-a21f-e460dbe125f6)
-
-### Payment Page
-![image](https://github.com/user-attachments/assets/84dbc1d3-3e00-4dcd-a509-8128a395d353)
-
-### My Orders Page
-![image](https://github.com/aerraj/MediKart/assets/61013804/e6eabd1e-9ac3-46f6-8de3-9bd6e61b4884)
-
-### Support Page
-![image](https://github.com/user-attachments/assets/3519f37c-4723-40d3-b54a-32aa34f0b58a)
-
